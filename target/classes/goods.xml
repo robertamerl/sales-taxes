@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<purchaseList>
+	<purchase id = "1">
+		<goods name="1 book">
+			<price>12.49</price>
+			<basic_tax>0</basic_tax>
+			<import_duty>0</import_duty>
+		</goods>
+		<goods name="1 music CD">
+			<price>14.99</price>
+			<basic_tax>10</basic_tax>
+			<import_duty>0</import_duty>
+		</goods>
+		<goods name="1 chocolate bar">
+			<price>0.85</price>
+			<basic_tax>0</basic_tax>
+			<import_duty>0</import_duty>
+		</goods>
+	</purchase>
+
+	<purchase id = "2">
+		<goods name="1 imported box of chocolates">
+			<price>10.00</price>
+			<basic_tax>0</basic_tax>
+			<import_duty>5</import_duty>
+		</goods>
+		<goods name="1 imported bottle of perfume">
+			<price>47.50</price>
+			<basic_tax>10</basic_tax>
+			<import_duty>5</import_duty>
+		</goods>
+	</purchase>
+	
+	<purchase id = "3">
+		<goods name="1 imported bottle of perfume">
+			<price>27.99</price>
+			<basic_tax>10</basic_tax>
+			<import_duty>5</import_duty>
+		</goods>
+		<goods name="1 bottle of perfume">
+			<price>18.99</price>
+			<basic_tax>10</basic_tax>
+			<import_duty>0</import_duty>
+		</goods>
+		<goods name="1 packet of headache pills">
+			<price>9.75</price>
+			<basic_tax>0</basic_tax>
+			<import_duty>0</import_duty>
+		</goods>
+		<goods name="1 box of imported chocolates">
+			<price>11.25</price>
+			<basic_tax>0</basic_tax>
+			<import_duty>5</import_duty>
+		</goods>
+	</purchase>
+	
+</purchaseList>
